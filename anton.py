@@ -1,0 +1,6 @@
+your_name = input('what is your name?')
+print('hello ' + your_name)
+answer = input('how are you doing buddy?')
+print('I miss you my son')
+favourite = input('Do you remmenber what is your favourite thing in your childhood?')
+print('that is right,you buy cars everyday,it makes me crazy!')
